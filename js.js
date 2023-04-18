@@ -30,11 +30,4 @@ function playerSelection() {
     } else {
         return insensitive;
     }
-
-
-    function game() {
-
-    }
-
-
 }
