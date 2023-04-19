@@ -60,6 +60,7 @@ function playRound() {
 }
 
 function game() {
+    // loop 5 times
     for (let i = 1; i <= 5; i++) {
         console.log(playRound());
         console.log("Player: " + playerCount + " Computer: " + computerCount);
